@@ -1,4 +1,6 @@
-
+*{
+    background-color: purple;
+}
 /* Custom animations */
 @keyframes fadeIn {
     from {
